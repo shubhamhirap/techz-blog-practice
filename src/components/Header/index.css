@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .tz-header {
+    margin: 1rem;
+  }
+  
+  .tz-brand {
+    margin: 0 0.5rem;
+    color: blue;
+    font-size: 2rem;
+  }
+  
+  .tz-navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .tz-menu {
+    width: 40%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .tz-menuItem{
+    text-decoration: none;
+    color: black;
+  }

@@ -1,0 +1,15 @@
+.tz-loginform{
+    display: flex;
+    justify-content: center;
+}
+
+.tz-loginPaper{
+    width: 40vw;
+    background: whitesmoke;
+}
+
+.tz-link{
+    text-decoration: none;
+    color: blue;
+    font-weight: 700;
+}
